@@ -2,7 +2,7 @@
 
 存在问题：
 
-![1](..\DL\ScreenShots\1.png)
+![1](ScreenShots\DL\ScreenShots\1.png)
 
 个人解决方案
 
