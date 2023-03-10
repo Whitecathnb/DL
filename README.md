@@ -2,15 +2,15 @@
 
 存在问题：
 
-![1](ScreenShots\DL\ScreenShots\1.png)
+![ScreenShots](./1.png)
 
 个人解决方案
 
-![2](..\DL\ScreenShots\2.png)
+![ScreenShots](./2.png)
 
 但是仍然存在问题
 
-![3](..\DL\ScreenShots\3.png)
+![ScreenShots](./3.png)
 
 求大佬给个解决思路，感激不尽！！！
 
